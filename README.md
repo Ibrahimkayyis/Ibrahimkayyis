@@ -15,8 +15,9 @@ I actually build things people use. Right now that's software for pesantren: one
 - **Backend & data:** Firebase & Hive
 
 ## Activity
-
-
+<p align="center">
+  <img src="https://github.com/Ibrahimkayyis/Ibrahimkayyis/blob/main/github-metrics.svg" alt="GitHub activity: commit calendar and top languages" width="100%">
+</p>
 
 ## Reach me
 
