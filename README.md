@@ -1,10 +1,10 @@
 # Hi, I'm Ibrahim 👋
 
-I build software that gets used. Right now that means tools for pesantren: tracking Qur'an memorization and halaqoh attendance in one place, instead of scattered across notebooks and chat groups.
+I actually build things people use. Right now that's software for pesantren: one place to track Qur'an memorization and halaqoh attendance, instead of notebooks and chat groups.
 
 ## What I've shipped
 
-- **[my_halaqoh](https://github.com/Ibrahimkayyis/my_halaqoh)**: app for Qur'an memorization tracking and halaqoh attendance management
+- **[my_halaqoh](https://github.com/Ibrahimkayyis/my_halaqoh)**: app for Qur'an memorization tracking and halaqoh attendance management in pesantren
 - **[my-halaqoh-admin-web](https://github.com/Ibrahimkayyis/my-halaqoh-admin-web)**: the admin web side of the same system
 - **[REPORT](https://github.com/Ibrahimkayyis/Report)**: Regional e-Portal for Operation & Request Tracking
 
@@ -13,6 +13,10 @@ I build software that gets used. Right now that means tools for pesantren: track
 - **Mobile:** Dart / Flutter
 - **Web:** TypeScript
 - **Backend & data:** Firebase & Hive
+
+## Activity
+
+
 
 ## Reach me
 
